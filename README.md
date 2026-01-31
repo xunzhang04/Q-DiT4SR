@@ -26,3 +26,10 @@
 ### Overview
 
 ![](figs/overview.png)
+
+
+---
+
+### Visual Comparison
+
+![](figs/comparison.png)
