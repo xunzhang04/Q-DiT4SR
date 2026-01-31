@@ -33,3 +33,12 @@
 ### Visual Comparison
 
 ![](figs/comparison.png)
+
+
+## 🔖 TODO
+
+- [ ] Release model checkpoints
+- [ ] Release inference code
+- [ ] Release quantization code
+- [ ] Release calibration set
+
