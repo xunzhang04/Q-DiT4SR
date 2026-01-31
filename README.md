@@ -38,7 +38,7 @@
 - [ ] Release quantization code.
 - [ ] Release calibration set.
 
-
+---
 
 ## <a name="results"></a>🔎 Results
 
@@ -64,6 +64,7 @@ We achieve SOTA Real-ISR performance on both W4A6 and W4A4 settings based on DiT
 </p>
 </details>
 
+---
 
 ## <a name="acknowledgements"></a>💡 Acknowledgements
 
