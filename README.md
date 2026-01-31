@@ -34,8 +34,7 @@
 ## 🔖 TODO
 
 - [ ] Release model checkpoints.
-- [ ] Release inference code.
-- [ ] Release quantization code.
+- [ ] Release quantization and inference code.
 - [ ] Release calibration set.
 
 ---
