@@ -39,10 +39,6 @@
 - [ ] Release calibration set.
 
 
-### Visual Comparison
-
-![](figs/comparison.png)
-
 
 ## <a name="results"></a>🔎 Results
 
