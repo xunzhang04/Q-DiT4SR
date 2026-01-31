@@ -30,10 +30,6 @@
 
 ---
 
-### Visual Comparison
-
-![](figs/comparison.png)
-
 
 ## 🔖 TODO
 
@@ -41,4 +37,35 @@
 - [ ] Release inference code
 - [ ] Release quantization code
 - [ ] Release calibration set
+
+
+### Visual Comparison
+
+![](figs/comparison.png)
+
+
+## <a name="results"></a>🔎 Results
+
+We achieve SOTA Real-ISR performance on both W4A6 and W4A4 settings based on DiT backbones.
+
+<details open>
+<summary>Quantitative Results (click to expand)</summary>
+
+- Results in Tab. 1 of the main paper
+
+<p align="center">
+  <img width="900" src="figs/quantitative.png">
+</p>
+</details>
+
+<details open>
+<summary>Qualitative Results (click to expand)</summary>
+
+- Results in Fig. 6 of the main paper
+
+<p align="center">
+  <img width="900" src="figs/comparison.png">
+</p>
+</details>
+
 
