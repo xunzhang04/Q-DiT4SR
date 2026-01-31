@@ -9,7 +9,7 @@
 
 #### 🔥🔥🔥 News
 
-- **2026-01-31:** Repository initial release.
+- [**2026-01-31**] Repository initial release.
 
 ---
 
